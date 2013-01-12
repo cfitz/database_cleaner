@@ -55,6 +55,12 @@ Here is an overview of the strategies supported for each library:
       <td> Yes</td>
       <td> No</td>
     </tr>
+     <tr>
+        <td> Neo4j</td>
+        <td> <b>Yes</b></td>
+        <td> No</td>
+        <td> No</td>
+      </tr>
   </tbody>
 </table>
 
